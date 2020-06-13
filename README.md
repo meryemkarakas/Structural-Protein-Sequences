@@ -30,5 +30,5 @@ The PDB archive is a repository of atomic coordinates and other information desc
             
 # Contributors
 * [Ali Cenk Baytop](https://github.com/alicenkbaytop)
-* Serkan Kocairi
+* [Serkan Kocairi](https://github.com/kocairiserkan)
 * [Meryem Karakas](https://github.com/meryemkarakas)
