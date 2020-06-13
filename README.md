@@ -1,4 +1,5 @@
-# Structural-Protein-Sequences
+# Structural-Protein-Sequences 
+
 It is about structural protein sequences exploratory data analysis. The dataset from [Kaggle](https://www.kaggle.com/shahir/protein-data-set).
 # Aim:
 prediction of classification of molecules according to data values.
@@ -28,6 +29,6 @@ The PDB archive is a repository of atomic coordinates and other information desc
       * KNN Method
             
 # Contributors
-1. Ali Cenk Baytop
-2. Serkan Kocairi
-3. Meryem Karakas
+* [Ali Cenk Baytop](https://github.com/alicenkbaytop)
+* Serkan Kocairi
+* [Meryem Karakas](https://github.com/meryemkarakas)
